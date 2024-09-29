@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "516192225541",
+    "project_id": "tennisapp-b7183",
+    "storage_bucket": "tennisapp-b7183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516192225541:android:b683ab6157c3a04b554f6c",
+        "android_client_info": {
+          "package_name": "com.example.clean_arch_weather_ap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWDdJsegBSn4s7YipNHoSSpvsRSs08FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516192225541:android:360c13a46a775f8e554f6c",
+        "android_client_info": {
+          "package_name": "com.example.clean_arch_weather_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLWDdJsegBSn4s7YipNHoSSpvsRSs08FU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

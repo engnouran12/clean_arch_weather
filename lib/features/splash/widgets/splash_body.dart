@@ -1,3 +1,4 @@
+import 'package:clean_arch_weather_app/core/utilites/custom_widgets/custom_button.dart';
 import 'package:flutter/material.dart';
 
 class SplashBody extends StatelessWidget {
@@ -10,12 +11,11 @@ class SplashBody extends StatelessWidget {
       child: Column(
         children: [
           Image.asset('assets/logo.jpg'),
-          ElevatedButton(onPressed: () {
-
-          },
-           child: const Text('Skip')),
+          const SizedBox(height: 24),
+          const custombutton(),
         ],
       ),
     );
   }
 }
+
